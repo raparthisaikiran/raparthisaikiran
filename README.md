@@ -9,7 +9,7 @@ I'm currently a graduate student pursuing Computer Science at St. Cloud State Un
   - NodeJS
   - Python
 - 👯 I’m looking forward to collaborating on open-source projects.
-- 📫 Reach out to me at: <a href="raparthisk@gmail.com">saikiran.raparthi@go.stcloudstate.edu</a>
+- 📫 Reach out to me at: <a href="raparthisk@gmail.com">raparthisk@gmail.com</a>
 
 
 
